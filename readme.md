@@ -1,2 +1,2 @@
 KoreaNationalOpenUniversity
-Computer Scinces
+Computer Sciences
